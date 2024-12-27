@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import "/workspaces/Traffic-Light/src/styles/index.css";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
